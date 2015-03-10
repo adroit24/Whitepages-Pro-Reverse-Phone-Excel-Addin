@@ -204,11 +204,11 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\Utilities\Utilities.csproj">
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
       <Project>{b906d927-41e9-4db2-b055-0f1f1b689593}</Project>
       <Name>Utilities</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\WebService.csproj">
+    <ProjectReference Include="..\WebService\WebService.csproj">
       <Project>{6af2518a-4449-4c9e-bab3-d475cf8f6ed4}</Project>
       <Name>WebService</Name>
     </ProjectReference>

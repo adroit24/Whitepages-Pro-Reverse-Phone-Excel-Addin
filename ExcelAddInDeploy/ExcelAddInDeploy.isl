@@ -2649,7 +2649,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>WhitePages Pro</td><td>0</td><td/><td>161707241</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>WhitePages Pro</td><td>0</td><td/><td>698592396</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>161736264</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>161736264</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>1033</td><td>The operating system is not adequate for running [ProductName].</td><td>0</td><td/><td>161736264</td></row>
@@ -3749,8 +3749,8 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>161736264</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>161736264</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>161736264</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.pro.whitepages.com</td><td>0</td><td/><td>161730575</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>WhitePages Pro</td><td>0</td><td/><td>161707241</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://www.WhitePagesPro.com</td><td>0</td><td/><td>698592396</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>WhitePages Pro</td><td>0</td><td/><td>698592396</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>161736264</td></row>
 	</table>
 
@@ -4433,62 +4433,14 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="s72">Component_</col>
 		<col def="I4">ISAttributes</col>
 		<row><td>Registry1</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins</td><td/><td/><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry10</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>Manifest</td><td>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry11</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>Description</td><td>Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry12</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td/><td/><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry13</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>FriendlyName</td><td>Load Test Report Addin</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry14</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>LoadBehavior</td><td>#16</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry15</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>Manifest</td><td>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry16</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>Description</td><td>Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0 - Excel add-in created with Visual Studio Tools for Office</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry17</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td/><td/><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry18</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td>Description</td><td>Team Foundation Add-in</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry19</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td>FriendlyName</td><td>Team Foundation Add-in</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry2</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td/><td/><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry20</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry21</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td/><td/><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry22</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>Description</td><td>Visual Studio Tools for Office Design-Time Adaptor for Excel</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry23</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>FriendlyName</td><td>Visual Studio Tools for Office Design-Time Adaptor for Excel</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry24</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry25</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>CommandLineSafe</td><td>#1</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry3</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>FriendlyName</td><td>Send to Bluetooth</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry4</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>Description</td><td>BTM Office connection</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry5</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
 		<row><td>Registry51</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\WhitepagesInc.ExcelAddIn</td><td>FriendlyName</td><td>Excell Whitepages Pro Add In</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
 		<row><td>Registry52</td><td>2</td><td>SOFTWARE</td><td/><td/><td>ISX_DEFAULTCOMPONENT</td><td>1</td></row>
 		<row><td>Registry53</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins</td><td/><td/><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry54</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td/><td/><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry55</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>FriendlyName</td><td>Send to Bluetooth</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry56</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>Description</td><td>BTM Office connection</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry57</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry58</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>CommandLineSafe</td><td>#1</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry59</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td/><td/><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry6</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\btmoffice.Connect</td><td>CommandLineSafe</td><td>#1</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry60</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>FriendlyName</td><td>Load Test Report Addin</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry61</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>LoadBehavior</td><td>#0</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry62</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>Manifest</td><td>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry63</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>Description</td><td>Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry64</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td/><td/><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry65</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>FriendlyName</td><td>Load Test Report Addin</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry66</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>LoadBehavior</td><td>#16</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry67</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>Manifest</td><td>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry68</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0</td><td>Description</td><td>Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn.12.0 - Excel add-in created with Visual Studio Tools for Office</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry69</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td/><td/><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry7</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td/><td/><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry70</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td>Description</td><td>Team Foundation Add-in</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry71</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td>FriendlyName</td><td>Team Foundation Add-in</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry72</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\TFCOfficeShim.Connect.5</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry73</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td/><td/><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry74</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>Description</td><td>Visual Studio Tools for Office Design-Time Adaptor for Excel</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry75</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>FriendlyName</td><td>Visual Studio Tools for Office Design-Time Adaptor for Excel</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry76</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry77</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\VS12ExcelAdaptor</td><td>CommandLineSafe</td><td>#1</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
 		<row><td>Registry79</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\WhitepagesInc.ExcelAddIn</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
-		<row><td>Registry8</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>FriendlyName</td><td>Load Test Report Addin</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
 		<row><td>Registry80</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\WhitepagesInc.ExcelAddIn</td><td>Manifest</td><td>file:///[ProgramFilesFolder]WhitePages Pro\ExcelAddIn\ExcelSampleAddIn.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
 		<row><td>Registry81</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\WhitepagesInc.ExcelAddIn</td><td>FriendlyName</td><td>Excell Whitepages Pro Add In</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
 		<row><td>Registry82</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\WhitepagesInc.ExcelAddIn</td><td>LoadBehavior</td><td>#3</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
 		<row><td>Registry83</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\WhitepagesInc.ExcelAddIn</td><td>Manifest</td><td>file:///[ProgramFilesFolder]WhitePages Pro\ExcelAddIn\ExcelSampleAddIn.vsto|vstolocal</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry9</td><td>2</td><td>SOFTWARE\Microsoft\Office\Excel\Addins\Microsoft.VisualStudio.QualityTools.LoadTestExcelAddIn</td><td>LoadBehavior</td><td>#0</td><td>ISX_DEFAULTCOMPONENT</td><td>0</td></row>
 	</table>
 
 	<table name="RemoveFile">

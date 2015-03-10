@@ -10,9 +10,9 @@ Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "ExcelAddInDeploy", "ExcelAd
 		{B73E850D-459F-49AB-A1E1-178BCEB2E456} = {B73E850D-459F-49AB-A1E1-178BCEB2E456}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\Utilities\Utilities.csproj", "{B906D927-41E9-4DB2-B055-0F1F1B689593}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{B906D927-41E9-4DB2-B055-0F1F1B689593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\WebService.csproj", "{6AF2518A-4449-4C9E-BAB3-D475CF8F6ED4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{6AF2518A-4449-4C9E-BAB3-D475CF8F6ED4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

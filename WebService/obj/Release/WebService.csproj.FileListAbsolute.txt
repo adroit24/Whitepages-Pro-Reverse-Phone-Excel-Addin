@@ -1,0 +1,14 @@
+C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\bin\Release\WebService.dll
+C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\bin\Release\WebService.pdb
+C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\bin\Release\Utilities.dll
+C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\bin\Release\Utilities.pdb
+C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\obj\Release\WebService.csprojResolveAssemblyReference.cache
+C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\obj\Release\WebService.dll
+C:\Users\kshah\Desktop\GitHub\WhitepagesProMobileRaffleChallenge\WhitepagesProMobileRaffleChallenge\WebService\obj\Release\WebService.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\WebService\bin\Release\WebService.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\WebService\bin\Release\WebService.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\WebService\bin\Release\Utilities.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\WebService\bin\Release\Utilities.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\WebService\obj\Release\WebService.csprojResolveAssemblyReference.cache
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\WebService\obj\Release\WebService.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\WebService\obj\Release\WebService.pdb

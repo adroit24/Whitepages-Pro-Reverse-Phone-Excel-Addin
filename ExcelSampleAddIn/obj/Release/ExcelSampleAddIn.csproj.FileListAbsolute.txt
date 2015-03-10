@@ -1,18 +1,36 @@
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.dll
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.pdb
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.dll.manifest
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.vsto
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Newtonsoft.Json.dll
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Utilities.dll
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\WebService.dll
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Utilities.pdb
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\WebService.pdb
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Newtonsoft.Json.xml
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.csprojResolveAssemblyReference.cache
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.Properties.Resources.resources
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.RibbonParse.resources
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.csproj.GenerateResource.Cache
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.dll
-\\pecan\users$\kshah\Visual Studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.pdb
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.dll
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.pdb
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.dll.manifest
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.vsto
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Newtonsoft.Json.dll
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Utilities.dll
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\WebService.dll
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Utilities.pdb
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\WebService.pdb
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Newtonsoft.Json.xml
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.csprojResolveAssemblyReference.cache
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.Properties.Resources.resources
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.RibbonParse.resources
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.csproj.GenerateResource.Cache
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.dll
+\\pecan\users$\kshah\visual studio 2013\Projects\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.csprojResolveAssemblyReference.cache
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.Properties.Resources.resources
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.RibbonParse.resources
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.csproj.GenerateResource.Cache
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\obj\Release\ExcelSampleAddIn.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.dll.manifest
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\ExcelSampleAddIn.vsto
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Newtonsoft.Json.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Utilities.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\WebService.dll
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Utilities.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\WebService.pdb
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Newtonsoft.Json.xml
+C:\Users\kshah\Desktop\GitHub\ExcelSampleAddIn\ExcelSampleAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
